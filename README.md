@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I played competitive Table Tennis 🏓 in high school
 
+<a href="https://github.com/alark">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roxiomontes&theme=material-palenight" />
+</a><br>
+<a href="https://github.com/alark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roxiomontes&show_icons=true&theme=material-palenight" />
+</a><br>
+<a href="https://github.com/alark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxiomontes&layout=compact&theme=material-palenight" />
+</a><br>
