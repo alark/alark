@@ -2,8 +2,6 @@
 
 <a href="https://www.linkedin.com/in/alarkjoshi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
- <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />      
-
 <a rel="me" href="https://vis.social/@alark">Mastodon</a>
 
 <!--
