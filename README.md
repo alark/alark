@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 📊 I’m currently working on Data Visualization
 - 💬 Ask me about Mastodon
-- 📫 How to reach me: <a href="www.cs.usfca.edu/~apjoshi/">Contact information on my website</a>
+- 📫 How to reach me: <a href="https://www.cs.usfca.edu/~apjoshi/">Contact information on my website</a>
 - ⚡ Fun fact: I played competitive Table Tennis 🏓 in high school
 
 <a href="https://github.com/alark">
