@@ -1,7 +1,7 @@
 ### Welcome to my Github Profile!
 
 
-<table>
+<table border=0>
   <tr>
     <td><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></td>
     <td><img alt="D3js" src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white"></td>
