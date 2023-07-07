@@ -1,11 +1,19 @@
 ### Welcome to my Github Profile!
 
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+<table>
+  <tr>
+    <td><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></td>
+    <td><img alt="D3js" src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white"></td>
+    <td><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></td>
+    <td><a href="https://www.linkedin.com/in/alarkjoshi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</td>
+  </tr>
+</table>
 
-<a href="https://www.linkedin.com/in/alarkjoshi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
+
 
 <!--
 **alark/alark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
