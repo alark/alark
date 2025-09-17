@@ -21,8 +21,7 @@
 Here are some ideas to get you started:
 -->
 
-- 📊 I’m currently working on Data Visualization Literacy 
-- 💬 Find me on Mastodon at <a href="https://vis.social/@alark">@alark@vis.social</a>
+- 📊 I’m currently working on Data Visualization Literacy related projects 
 - 📫 How to reach me: <a href="https://www.cs.usfca.edu/~apjoshi/">Contact information on my website</a>
 - ⚡ Fun fact: I played competitive Table Tennis 🏓 in high school
 
