@@ -1,6 +1,6 @@
-### Hi, I'm Alark Joshi 👋
+### Hello, My name is Alark! 
 
-Professor of Computer Science at the **University of San Francisco** (Dept. Chair 2020–23).
+I am a Professor of Computer Science at the **University of San Francisco** (Dept. Chair 2020–23).
 I study how people **read, learn, and make decisions with visualizations**: visualization
 literacy, vis pedagogy, CS education & equity, and the cognitive risks of AI-assisted decisions.
 
